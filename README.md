@@ -237,3 +237,6 @@ This repository is the home of code written on episodes of [Point-Free](https://
 1. [Composable Stacks: Multiple Destinations](0233-composable-navigation-pt12)
 1. [Composable Stacks: Action Ergonomics](0234-composable-navigation-pt13)
 1. [Composable Stacks: State Ergonomics](0235-composable-navigation-pt14)
+1. [Composable Stacks: Effect Cancellation](0236-composable-navigation-pt15)
+1. [Composable Stacks: Testing](0237-composable-navigation-pt16)
+1. [Reliable Async Tests: The Problem](0238-reliably-testing-async-pt1)
